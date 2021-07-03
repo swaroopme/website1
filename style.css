@@ -1,0 +1,29 @@
+img {
+    height: 300px;
+    width: 500px;
+}
+
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#wecome {
+    background-color: beige;
+}
+
+.section3 {
+    display: flex;
+    justify-content: center;
+}
+
+.section4 {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+div {
+    margin-top: 15px;
+    float: right;
+}
